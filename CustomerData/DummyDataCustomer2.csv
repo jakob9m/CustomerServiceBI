@@ -1,0 +1,11 @@
+CustomerCode,CustomerName,CustomerAmount,SalesDate,SalesPersonName,ProductName,StateName,CountryName
+1011,John Doe,123,2023-04-01,Michael Johnson,ToaStol,California,US
+1012,Jane Smith,150,2023-04-02,Sara Parker,Kopp,Texas,Canada
+1013,Alice Johnson,200,2023-04-03,James Smith,Kruka,Florida,Mexico
+1014,Bob Brown,300,2023-04-04,Angela Martin,Pistol,New York,United Kingdom
+1015,Charlie Black,-400,2023-04-05,Robert Lee,julGran,Illinois,France
+1016,David Wilson,0,2023-04-06,Michael Johnson,ToaStol,California,US
+1017,Eva Parker,650,2023-04-07,Sara Parker,Kopp,Texas,Canada
+1018,Frank Wright,700,2023-04-08,James Smith,Kruka,Florida,Mexico
+1019,Grace Hall,10,2023-04-09,Angela Martin,Pistol,New York,United Kingdom
+1020,Henry Lee,800,2023-04-10,Robert Lee,julGran,Illinois,France

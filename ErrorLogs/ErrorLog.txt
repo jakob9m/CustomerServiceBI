@@ -1,0 +1,3 @@
+CustomerCode,CustomerName,CustomerAmount,SalesDate,uCustomerName,Amount in currency
+1015,Charlie Black,-400,2023-04-05,CHARLIE BLACK,
+1016,David Wilson,0,2023-04-06,DAVID WILSON,
