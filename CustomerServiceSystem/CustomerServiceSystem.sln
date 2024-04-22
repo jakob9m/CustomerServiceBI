@@ -5,13 +5,18 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "CustomerServiceSystem", "CustomerServiceSystem.dtproj", "{3D32F9E2-A802-408A-B378-E44E589298DA}"
 EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAScustomer", "..\SSAScustomer\SSAScustomer.dwproj", "{1053FFF0-48D5-411C-9308-27DE12957CB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Development|Default = Development|Default
+		Development|x86 = Development|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3D32F9E2-A802-408A-B378-E44E589298DA}.Development|Default.ActiveCfg = Development
-		{3D32F9E2-A802-408A-B378-E44E589298DA}.Development|Default.Build.0 = Development
+		{3D32F9E2-A802-408A-B378-E44E589298DA}.Development|x86.ActiveCfg = Development
+		{3D32F9E2-A802-408A-B378-E44E589298DA}.Development|x86.Build.0 = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Development|x86.ActiveCfg = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Development|x86.Build.0 = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Development|x86.Deploy.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
