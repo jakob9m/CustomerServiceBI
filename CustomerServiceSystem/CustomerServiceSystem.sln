@@ -7,16 +7,46 @@ Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "CustomerServiceSystem", "Cu
 EndProject
 Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAScustomer", "..\SSAScustomer\SSAScustomer.dwproj", "{1053FFF0-48D5-411C-9308-27DE12957CB3}"
 EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRScustomer", "..\SSRScustomer\SSRScustomer.rptproj", "{BA89548B-F360-4624-9D8A-764B16055EE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		DebugLocal|x86 = DebugLocal|x86
 		Development|x86 = Development|x86
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D32F9E2-A802-408A-B378-E44E589298DA}.Debug|x86.ActiveCfg = Development
+		{3D32F9E2-A802-408A-B378-E44E589298DA}.Debug|x86.Build.0 = Development
+		{3D32F9E2-A802-408A-B378-E44E589298DA}.DebugLocal|x86.ActiveCfg = Development
+		{3D32F9E2-A802-408A-B378-E44E589298DA}.DebugLocal|x86.Build.0 = Development
 		{3D32F9E2-A802-408A-B378-E44E589298DA}.Development|x86.ActiveCfg = Development
 		{3D32F9E2-A802-408A-B378-E44E589298DA}.Development|x86.Build.0 = Development
+		{3D32F9E2-A802-408A-B378-E44E589298DA}.Release|x86.ActiveCfg = Development
+		{3D32F9E2-A802-408A-B378-E44E589298DA}.Release|x86.Build.0 = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Debug|x86.ActiveCfg = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Debug|x86.Build.0 = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Debug|x86.Deploy.0 = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.DebugLocal|x86.ActiveCfg = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.DebugLocal|x86.Build.0 = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.DebugLocal|x86.Deploy.0 = Development
 		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Development|x86.ActiveCfg = Development
 		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Development|x86.Build.0 = Development
 		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Development|x86.Deploy.0 = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Release|x86.ActiveCfg = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Release|x86.Build.0 = Development
+		{1053FFF0-48D5-411C-9308-27DE12957CB3}.Release|x86.Deploy.0 = Development
+		{BA89548B-F360-4624-9D8A-764B16055EE0}.Debug|x86.ActiveCfg = Debug
+		{BA89548B-F360-4624-9D8A-764B16055EE0}.Debug|x86.Build.0 = Debug
+		{BA89548B-F360-4624-9D8A-764B16055EE0}.Debug|x86.Deploy.0 = Debug
+		{BA89548B-F360-4624-9D8A-764B16055EE0}.DebugLocal|x86.ActiveCfg = DebugLocal
+		{BA89548B-F360-4624-9D8A-764B16055EE0}.DebugLocal|x86.Build.0 = DebugLocal
+		{BA89548B-F360-4624-9D8A-764B16055EE0}.Development|x86.ActiveCfg = DebugLocal
+		{BA89548B-F360-4624-9D8A-764B16055EE0}.Development|x86.Build.0 = DebugLocal
+		{BA89548B-F360-4624-9D8A-764B16055EE0}.Release|x86.ActiveCfg = Release
+		{BA89548B-F360-4624-9D8A-764B16055EE0}.Release|x86.Build.0 = Release
+		{BA89548B-F360-4624-9D8A-764B16055EE0}.Release|x86.Deploy.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
